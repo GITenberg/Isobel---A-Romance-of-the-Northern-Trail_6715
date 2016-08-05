@@ -1,0 +1,28 @@
+_repo: Isobel---A-Romance-of-the-Northern-Trail_6715
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Curwood, James Oliver
+    birthdate: 1878
+    deathdate: 1927
+    gutenberg_agent_id: '1487'
+    url: http://www.gutenberg.org/2009/agents/1487
+    wikipedia: http://en.wikipedia.org/wiki/James_Oliver_Curwood
+description: Immerse yourself in the romance of frontier living. The novel Isobel
+  follows the rocky love affair between the title character and her soul mate, a Canadian
+  Mountie who risks his life to rescue her when things go horribly awry. Packed with
+  action, this is a quick and rewarding read for fans of the great outdoors
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6715'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Northwest, Canadian -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Isobel : A Romance of the Northern Trail'
+url: http://www.gutenberg.org/ebooks/6715
