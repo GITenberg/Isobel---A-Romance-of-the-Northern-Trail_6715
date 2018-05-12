@@ -1,5 +1,8 @@
 _repo: Isobel---A-Romance-of-the-Northern-Trail_6715
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Curwood, James Oliver
@@ -12,6 +15,8 @@ description: Immerse yourself in the romance of frontier living. The novel Isobe
   follows the rocky love affair between the title character and her soul mate, a Canadian
   Mountie who risks his life to rescue her when things go horribly awry. Packed with
   action, this is a quick and rewarding read for fans of the great outdoors
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6715#Isobel---A-Romance-of-the-Northern-Trail
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
 identifiers:
